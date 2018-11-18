@@ -1,0 +1,52 @@
+body{
+	background-color: #a2c3c3;
+}
+p{
+	text-align: center;
+
+}
+
+
+
+form{
+
+	 border: 6px solid black;
+	
+	 padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+
+
+}
+
+.c{
+	display:block;
+	padding:15px;
+	font-size: 20px;
+}
+
+input{
+	
+	width:20%;
+}
+
+textarea{
+	
+	width:25%;
+
+}
+#position1{
+	position:relative;
+	bottom:80px;
+	top:100px;
+	left:0px;
+	right:200px;
+}
+#position2{
+	position:relative;
+	bottom:80px;
+	top:110px;
+	left:0px;
+	right:200px;
+}
